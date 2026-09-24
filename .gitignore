@@ -4,6 +4,9 @@ dist
 dist-server
 public_data
 
+# local Cloudflare CLI cache
+.cloudflare/
+
 # temp file
 *.log
 *.tmp
